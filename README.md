@@ -54,7 +54,7 @@
 
 [カーディガン](./kanojo/ka-dhigan.py)
 
-[縞ニーソ](./kanojo/shimani-so.py)
+[縞ニーソ](./kanojo/simani-so.py)
 
 [メイド服](./kanojo/meidohuku.py)
 
