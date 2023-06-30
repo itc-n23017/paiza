@@ -3,5 +3,6 @@
 
 # 恋するハッカソン
 [ショートカット](./shortcut.py)
-[ロングヘア] (./longhair.py)
+[ロングヘアー](./longhair.py)
+
 
