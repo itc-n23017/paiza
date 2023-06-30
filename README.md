@@ -1,5 +1,5 @@
 # paiza
-![CordGirlCollection](./image/CordGirlCollection)
+![CordGirlCollection](./image/CordGirlCollection.png)
 
 # 恋するハッカソン
 [ショートカット](./shortcut.py)
