@@ -32,3 +32,29 @@
 
 [カチューシャ](katyu-sha.py)
 
+# プログラミングで彼女を作る
+
+[つり目](./turime.py)
+
+[眼帯](./gantai.py)
+
+[猫耳](./nekomimi.py)
+
+[猫](./nekoset.py)
+
+[ショートヘア](./shorthair.py)
+
+[ロングヘア](./longhair.py)
+
+[ポニーテール](./ponytail.py)
+
+[ツインテール](./twintail.py)
+
+[セーラー服](./se-ra-huku.py)
+
+[カーディガン](./ka-dhigan.py)
+
+[縞ニーソ](./shimani-so.py)
+
+[メイド服](./meidohuku.py)
+
