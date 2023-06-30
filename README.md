@@ -34,27 +34,27 @@
 
 # プログラミングで彼女を作る
 
-[つり目](./turime.py)
+[つり目](./kanojo/turime.py)
 
-[眼帯](./gantai.py)
+[眼帯](./kanojo/gantai.py)
 
-[猫耳](./nekomimi.py)
+[猫耳](./kanojo/nekomimi.py)
 
-[猫](./nekoset.py)
+[猫](./kanojo/nekoset.py)
 
-[ショートヘア](./shorthair.py)
+[ショートヘア](./kanojo/shorthair.py)
 
-[ロングヘア](./longhair.py)
+[ロングヘア](./kanojo/longhair.py)
 
-[ポニーテール](./ponytail.py)
+[ポニーテール](./kanojo/ponytail.py)
 
-[ツインテール](./twintail.py)
+[ツインテール](./kanojo/twintail.py)
 
-[セーラー服](./se-ra-huku.py)
+[セーラー服](./kanojo/se-ra-huku.py)
 
-[カーディガン](./ka-dhigan.py)
+[カーディガン](./kanojo/ka-dhigan.py)
 
-[縞ニーソ](./shimani-so.py)
+[縞ニーソ](./kanojo/shimani-so.py)
 
-[メイド服](./meidohuku.py)
+[メイド服](./kanojo/meidohuku.py)
 
